@@ -1,0 +1,15 @@
+#player1{
+		float:left;
+		border:solid black 2px;
+}
+#player2{
+	float:right;
+	border:solid black 2px;
+}
+body{
+	background-image:url("colorpictures/background.jpg");
+		background-color: #cccccc;
+}
+p{
+	color:white;
+}
